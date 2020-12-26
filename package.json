@@ -4,7 +4,7 @@
   "description": "Instagram Unfollow Not FollowBack",
   "main": "index.js",
   "dependencies": {
-    "chalk": "^2.3.0",
+    "chalk": "^2.4.2",
     "delay": "^2.0.0",
     "inquirer": "^4.0.1",
     "instagram-private-api": "^0.6.7",
