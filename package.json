@@ -7,7 +7,7 @@
     "chalk": "^2.3.0",
     "delay": "^2.0.0",
     "inquirer": "^4.0.1",
-    "instagram-private-api": "^0.6.7",
+    "instagram-private-api": "^0.6.8",
     "request": "^2.83.0",
     "request-promise": "^4.2.2",
     "string": "^3.3.3"
