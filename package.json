@@ -9,7 +9,7 @@
     "inquirer": "^4.0.1",
     "instagram-private-api": "^0.6.7",
     "request": "^2.83.0",
-    "request-promise": "^4.2.2",
+    "request-promise": "^4.2.6",
     "string": "^3.3.3"
   },
   "author": "CCOCOT"
